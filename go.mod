@@ -1,4 +1,4 @@
-module github.com/goretk/gore
+module github.com/go-delve/gore
 
 go 1.21
 

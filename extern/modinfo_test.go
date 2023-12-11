@@ -7,7 +7,7 @@ package extern_test
 import (
 	"testing"
 
-	"github.com/goretk/gore/extern"
+	"github.com/go-delve/gore/extern"
 	"github.com/stretchr/testify/assert"
 )
 

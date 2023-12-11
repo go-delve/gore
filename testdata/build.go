@@ -199,7 +199,7 @@ func main() {
 	fmt.Printf("Person: %v and a struct %v\n", myPerson, complexStruct)
 }
 `
-const gomodstub = `module github.com/goretk/gore/gold
+const gomodstub = `module github.com/go-delve/gore/gold
 
 go 1.14
 `
